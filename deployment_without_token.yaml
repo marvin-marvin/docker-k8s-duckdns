@@ -37,7 +37,7 @@ spec:
       containers:
       - env:
         - name: TZ
-          value: Europe/Berlin
+          value: UTC
         - name: TOKEN
           value: <INSERT-TOKEN>
         - name: SUBDOMAINS
